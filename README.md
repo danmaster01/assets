@@ -32,7 +32,7 @@ Details of the repository structure and contribution guidelines are listed on th
 Here is a quick starter summary for the most common use case.
 
 
-## Documentation
+## 
 
 For details, see the [Developers site](https://developer.trustwallet.com):
 
